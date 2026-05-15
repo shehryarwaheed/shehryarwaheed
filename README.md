@@ -14,8 +14,7 @@
 
 - 🤝 I'm looking for help with **Growing as a developer and landing my first software engineering internship**
 
-- 💬 Ask me about **C++, OOP, Data Structures, SFML game development,
-React Tailwind CSS, Node.js, Web Development**
+- 💬 Ask me about **C++, OOP, Data Structures, SFML game development**
 
 - 📫 How to reach me **m.shehryarwaheed@gmail.com**
 
