@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Shehryar Waheed
 
-### Software Engineering Student at FAST NUCES Lahore · Seeking Summer Internship
+### Software Engineering Student at FAST NUCES Lahore
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehryarwaheed&label=Profile views&color=0e75b6&style=flat" alt="shehryarwaheed" /> </p>
 
